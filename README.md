@@ -1,15 +1,17 @@
 ## Me, Chris J
+___
+A normal student in [PKU](http://www.pku.edu.cn/)
 
-    A normal student in [PKU](http://www.pku.edu.cn/)
+Major in Computer Science in [EECS](http://eecs.pku.edu.cn/)
 
-    Major in Computer Science in [EECS](http://eecs.pku.edu.cn/)
+Working on Wireless Sensing now
 
-    Working on Wireless Sensing now
+Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 
-    Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
-
+***
 
 ## My Blogs
+___
 
 ### Philosophy Blogs
 [Piece of I Know](_posts/philosophy/2018-8-26-PieceofPhilosophy.md)
