@@ -1,36 +1,11 @@
 # Here is My Garden
 
-## babalala
+## [Me, Chris J](2018-8-26-Chris.md)
 
-[blog hey](_posts/2018-8-25-hey.md)
+## My Blogs
 
-dddd
-dddd
+### Travel Blogs
+[2018 Summer](_posts/travel/2018-8-26-2018Summer.md)
 
-dddd
-
-dddd
-
-dddd
-
-dddd
-
-dddd
-
-dddd
-
-
-dddd
-
-dddd
-
-dddd
-
-dddd
-
-dddd
-### h
-
-
-
-### hey man
+### Philosophy Blogs
+[Piece of I Know](_posts/philosophy/2018-8-26-PieceofPhilosophy.md)
