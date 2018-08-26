@@ -1,4 +1,4 @@
-## Me, Chris J
+# Me, Chris J
 ___
 A normal student in [PKU](http://www.pku.edu.cn/)
 
@@ -10,7 +10,7 @@ Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 
 ***
 
-## My Blogs
+# My Blogs
 ___
 
 ### Philosophy Blogs
