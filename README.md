@@ -16,11 +16,6 @@ ___
 ### Philosophy Blogs
 [Piece of I Know](_posts/philosophy/2018-8-26-PieceofPhilosophy.md)
 
-### Taste Blogs
-[Before I Write](_posts/taste/2018-8-28-写在前面.md)
-
-[博多一幸舍](_posts/taste/2018-8-28-博多一幸舍.md)
-
 ### Travel Blogs
 [2018 Summer](_posts/travel/2018-8-26-2018Summer.md)
 
