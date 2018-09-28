@@ -11,7 +11,8 @@ Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 ***
 
 # My Blogs
-___
+### Music
+[Music I Like](_posts/music/2018-9-28-MusicThatILike.md)
 
 ### Philosophy Blogs
 [Piece of I Know](_posts/philosophy/2018-8-26-PieceofPhilosophy.md)
