@@ -11,8 +11,9 @@ Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 ***
 
 # My Love
-### Birthday-2019
+[Birthday-2020](_posts/love/2020-2-5-loveLetter.md)
 [Birthday-2019](_posts/love/2019-2-5-loveLetter.md)
+
 
 ***
 
@@ -25,5 +26,4 @@ Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 
 ### Travel Blogs
 [2018 Summer](_posts/travel/2018-8-26-2018Summer.md)
-
 
