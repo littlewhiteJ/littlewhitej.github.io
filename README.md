@@ -6,19 +6,18 @@ Major in Computer Science in [EECS](http://eecs.pku.edu.cn/)
 
 Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 
-***
 
-# My Love
+
+# LoveLetter
+
 [Birthday-2020](_posts/love/2020-2-5-loveLetter.md)
 
 [Birthday-2019](_posts/love/2019-2-5-loveLetter.md)
 
+# Together
 
-***
+[1.24-故宫](_posts/together/2020-2-11-guGong.md)
 
-# My Blogs
 
-### Philosophy Notes
-[Piece of I Know](_posts/philosophy/2018-8-26-PieceofPhilosophy.md)
 
 
