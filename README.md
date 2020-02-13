@@ -16,7 +16,7 @@ Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
 
 # Together
 
-[1.24-故宫](_posts/together/2020-2-11-guGong.md)
+[Love Notes](_posts/together/2020-2-13-together.md)
 
 
 
