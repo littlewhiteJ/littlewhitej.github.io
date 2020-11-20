@@ -1,23 +1,19 @@
-# Me, Chris J
+# Gilbert Chris Jiang
 ___
-A normal student in [PKU](http://www.pku.edu.cn/)
+Master of Meow.
 
-Major in Computer Science in [EECS](http://eecs.pku.edu.cn/)
-
-Study Economy simultaneously in [CCER](http://nsd.pku.edu.cn/)
-
-
-
-# LoveLetter
+## LoveLetters
 
 [Birthday-2020](_posts/loveLetter/2020-2-5-loveLetter.md)
 
 [Birthday-2019](_posts/loveLetter/2019-2-5-loveLetter.md)
 
-# Together
+## LoveNotes
 
 [Love Notes](_posts/together/2020-2-13-together.md)
 
+## English
 
+[2020-10-13](_posts/english/2020-10-13.md)
 
 
