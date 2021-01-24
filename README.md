@@ -18,7 +18,7 @@ Master of Meow.
 
 ## Novels
 
-[布里斯克顿的魔女](_posts/novels/2021-1-24-Sorceress_of_Brixton.md)
+[玛斯格拉德的魔女](_posts/novels/2021-1-24-Sorceress_of_Marsgrad.md)
 
 
 
