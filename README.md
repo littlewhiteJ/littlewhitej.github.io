@@ -16,7 +16,7 @@ Master of Meow.
 
 [2020-10-13](_posts/english/2020-10-13-covidEngland.md)
 
-## Novel
+## Novels
 
 [布里斯克顿的魔女](_posts/novels/2021-1-24-Sorceress_of_Brixton.md)
 
