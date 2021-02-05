@@ -10,9 +10,9 @@ Master of Meow.
 
 ## LoveNotes
 
-[Love Notes 2019](_posts/together/2020-2-13-together.md)
-
 [Love Notes 2020](_posts/together/2021-2-2-together.md)
+
+[Love Notes 2019](_posts/together/2020-2-13-together.md)
 
 ## English
 
