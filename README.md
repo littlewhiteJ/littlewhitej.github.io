@@ -24,7 +24,7 @@ Master of Meow.
 
 [玛斯格拉德的魔女](_posts/novels/2021-1-24-Sorceress_of_Marsgrad.md)
 
-
+[荒诞故事集](_posts/novels/2021-3-23-Absurd.md)
 
 
 
