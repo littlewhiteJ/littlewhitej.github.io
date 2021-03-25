@@ -10,4 +10,5 @@ ___
 
 [今晚有流星嘛](_posts/novels/2021-3-23-Meteor.md)
 
-[天堂之愿](_posts/novels/2021-3-25-Garbage.md)
+[天堂之愿](_posts/novels/2021-3-25-Paradise.md)
+
