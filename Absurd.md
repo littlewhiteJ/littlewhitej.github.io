@@ -12,3 +12,7 @@ ___
 
 [天堂之愿](_posts/novels/2021-3-25-Paradise.md)
 
+[提线木偶](_posts/novels/2021-5-11-Puppet.md)
+
+
+
