@@ -15,3 +15,6 @@ ___
 [提线木偶](_posts/novels/2021-5-11-Puppet.md)
 
 [校园神探](_posts/novels/2021-5-21-Detective.md)
+
+[夏日餐会](_posts/novels/2021-5-22-Party.md)
+
