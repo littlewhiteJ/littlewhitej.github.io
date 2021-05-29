@@ -18,3 +18,4 @@ ___
 
 [怕虫](_posts/novels/2021-5-29-Worm.md)
 
+[校园神探2](_posts/novels/2021-5-30-Detective2.md)
