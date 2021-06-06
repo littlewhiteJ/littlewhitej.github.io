@@ -1,6 +1,12 @@
 # Gilbert Chris Jiang
 ___
-Master of Meow.
+生而多喟叹
+
+殁而常忧怆
+
+风中一抔土
+
+荷戟独彷徨
 
 ## LoveLetters
 
@@ -15,10 +21,6 @@ Master of Meow.
 [Love Notes 2020](_posts/together/2021-2-2-together.md)
 
 [Love Notes 2019](_posts/together/2020-2-13-together.md)
-
-## English
-
-[2020-10-13](_posts/english/2020-10-13-covidEngland.md)
 
 ## Novels
 
