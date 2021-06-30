@@ -1,12 +1,8 @@
 # Gilbert Chris Jiang
 ___
-生而多喟叹
+世人闻此皆掉头
 
-殁而常忧怆
-
-大笑还大笑
-
-荷戟独彷徨
+有如东风射马耳
 
 ## LoveLetters
 
